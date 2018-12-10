@@ -8,7 +8,7 @@ values with each other (e.g. with ``==`` or ``>=``) and
 then returns the value ``true`` or ``false``. Which values
 are interpreted as ``true`` or ``false`` by Fluid depends
 on the data type. A number for example is evaluated as ``true`` if
-it is greater than 0.
+it is not 0.
 
 .. tip::
 
